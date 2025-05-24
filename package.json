@@ -1,0 +1,29 @@
+{
+  "name": "vesper-golden",
+  "displayName": "vesper golden",
+  "id": "vesper-golden",
+  "publisher": "narayann7",
+  "description": "Visual Studio Code theme inspired by Vesper with a golden touch.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "homepage": "https://github.com/narayann7/vesper-golden#README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/narayann7/vesper-golden.git"
+  },
+  "icon": "logo.png",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "vesper golden",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vesper-golden-color-theme.json"
+      }
+    ]
+  }
+}
