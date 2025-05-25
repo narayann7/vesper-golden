@@ -85,7 +85,8 @@
     "terminal.ansiGreen": "#AFACA7",
     "terminal.ansiYellow": "#FFBF3B",
     "terminal.ansiCyan": "#F2E7DC",
-    "terminal.ansiBrightBlue": "#FFBF3B"
+    "terminal.ansiBrightBlue": "#FFBF3B",
+    "debugToolBar.background": "#0a0a0a"
   },
   "tokenColors": [
     {
