@@ -17,6 +17,16 @@
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "theme",
+    "dark",
+    "black",
+    "golden",
+    "vesper"
+  ],
+  "bugs": {
+    "url": "https://github.com/narayann7/vesper-golden/issues"
+  },
   "contributes": {
     "themes": [
       {
@@ -25,5 +35,6 @@
         "path": "./themes/vesper-golden-color-theme.json"
       }
     ]
-  }
+  },
+  "license": "MIT"
 }
