@@ -43,6 +43,30 @@ code --install-extension narayann7.vesper-golden
 
 This command utilizes the `code` CLI to install the extension by its identifier, as detailed in the [Visual Studio Code documentation](https://code.visualstudio.com/docs/getstarted/extensions#_command-line-extension-management).
 
+### ⚙️ Recommended Settings
+
+To enhance your experience with the Vesper Golden theme, consider adding the following settings to your `settings.json` file:
+
+```json
+{
+  "workbench.colorTheme": "vesper golden",
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.letterSpacing": 0.5,
+  "editor.tabSize": 3,
+  "editor.cursorStyle": "line",
+  "editor.fontWeight": "400",
+  "editor.autoIndent": "full",
+  "editor.lineHeight": 26,
+  "editor.fontSize": 17,
+  "editor.stickyTabStops": true,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.cursorBlinking": "smooth",
+  "editor.minimap.size": "fit",
+  "editor.minimap.enabled": true
+}
+```
+
 ### ‍💻 Author
 
 - [@narayann7](https://github.com/narayann7)
