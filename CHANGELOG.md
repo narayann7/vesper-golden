@@ -18,3 +18,10 @@
 #### Removed
 
 - Removed vsix file from the repository which reduces the size of the theme package.
+
+## [0.0.5] - 2025-06-02
+
+#### Fixed
+
+- Fixed theme size by removing unnecessary files and folders.
+- Sized Reduced the theme package size from 1.2 MB to 8KB.
