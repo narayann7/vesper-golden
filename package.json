@@ -8,7 +8,12 @@
   "engines": {
     "vscode": "^1.100.0"
   },
-  "homepage": "https://github.com/narayann7/vesper-golden#README.md",
+  "author": {
+    "name": "Narayan Reddy",
+    "email": "hey@narayann.dev",
+    "url": "https://narayann.dev"
+  },
+  "homepage": "https://github.com/narayann7/vesper-golden?tab=readme-ov-file#vesper-golden",
   "repository": {
     "type": "git",
     "url": "https://github.com/narayann7/vesper-golden.git"
@@ -22,7 +27,13 @@
     "dark",
     "black",
     "golden",
-    "vesper"
+    "vesper",
+    "modern",
+    "syntax highlighting",
+    "ui theme",
+    "visual studio code",
+    "programming",
+    "developer"
   ],
   "bugs": {
     "url": "https://github.com/narayann7/vesper-golden/issues"
