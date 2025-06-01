@@ -9,7 +9,7 @@
 - Includes support for various programming languages and file types.
 - Provides a visually appealing dark theme with golden accents.
 
-## [0.0.2] - 2025-06-02
+## [0.0.3] - 2025-06-02
 
 #### Added
 
