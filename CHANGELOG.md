@@ -25,3 +25,10 @@
 
 - Fixed theme size by removing unnecessary files and folders.
 - Sized Reduced the theme package size from 1.2 MB to 8KB.
+
+## [0.0.7] - 2025-06-29
+
+#### Updated
+
+- Color adjustments for Terminal, Git decorations, Comment, and miscellaneous scopes.
+- Changed engines vscode version to 1.100.0 to 1.43.0 to support older versions of VS Code.

@@ -4,7 +4,7 @@
   "id": "vesper-golden",
   "publisher": "narayann7",
   "description": "Visual Studio Code theme inspired by Vesper with a golden touch.",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "engines": {
     "vscode": "^1.43.0"
   },
