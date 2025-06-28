@@ -33,7 +33,9 @@ A Visual Studio Code theme inspired by Vesper with a golden touch.
 
 ### 📦 Installation
 
-You can install the **Vesper Golden** theme directly from the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=narayann7.vesper-golden) or by using the command line.
+You can install the **Vesper Golden** theme directly from the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=narayann7.vesper-golden) or [Open Vsx](https://open-vsx.org/extension/narayann7/vesper-golden)
+
+or by using the command line.
 
 To install via the command line, run the following command in your terminal:
 
