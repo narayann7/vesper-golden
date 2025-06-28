@@ -63,7 +63,9 @@ To enhance your experience with the Vesper Golden theme, consider adding the fol
   "editor.cursorSmoothCaretAnimation": "on",
   "editor.cursorBlinking": "smooth",
   "editor.minimap.size": "fit",
-  "editor.minimap.enabled": true
+  "editor.minimap.enabled": true,
+  "editor.semanticHighlighting.enabled": true,
+  "editor.bracketPairColorization.enabled": true
 }
 ```
 

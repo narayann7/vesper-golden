@@ -81,12 +81,48 @@
     "scrollbarSlider.background": "#34343434",
     "scrollbarSlider.hoverBackground": "#343434",
     "settings.modifiedItemIndicator": "#FFBF3B",
-    "terminal.ansiMagenta": "#ffffff",
-    "terminal.ansiGreen": "#AFACA7",
+    "debugToolBar.background": "#0a0a0a",
+    "editorCursor.foreground": "#FFBF3B",
+    "editor.findMatchBackground": "#FFBF3B40",
+    "editor.findMatchBorder": "#FFBF3B",
+    "editor.findMatchHighlightBackground": "#FFBF3B20",
+    "sideBar.border": "#1A1A1A",
+    "activityBar.border": "#1A1A1A",
+    "breadcrumb.foreground": "#8B7355",
+    "breadcrumb.activeSelectionForeground": "#FFBF3B",
+    "breadcrumb.background": "#0A0908",
+    "gitDecoration.addedResourceForeground": "#7CB342",
+    "gitDecoration.modifiedResourceForeground": "#FFBF3B",
+    "gitDecoration.deletedResourceForeground": "#FF6B6B",
+    "gitDecoration.untrackedResourceForeground": "#8B7355",
+    "gitDecoration.conflictingResourceForeground": "#FF8C42",
+    "terminal.ansiBlack": "#0A0908",
+    "terminal.ansiRed": "#FF8080",
+    "terminal.ansiGreen": "#FFBF3B",
     "terminal.ansiYellow": "#FFBF3B",
+    "terminal.ansiBlue": "#74B3F7",
+    "terminal.ansiMagenta": "#E8D5B7",
     "terminal.ansiCyan": "#F2E7DC",
-    "terminal.ansiBrightBlue": "#FFBF3B",
-    "debugToolBar.background": "#0a0a0a"
+    "terminal.ansiWhite": "#FFFFFF",
+    "terminal.ansiBrightBlack": "#505050",
+    "terminal.ansiBrightRed": "#FF9999",
+    "terminal.ansiBrightGreen": "#FFBF3B",
+    "terminal.ansiBrightYellow": "#FFCFA8",
+    "terminal.ansiBrightBlue": "#90C4FF",
+    "terminal.ansiBrightMagenta": "#F4E4BC",
+    "terminal.ansiBrightCyan": "#FFF9F2",
+    "terminal.ansiBrightWhite": "#FFFFFF",
+    "terminalCursor.background": "#0A0908",
+    "terminalCursor.foreground": "#FFBF3B",
+    "terminal.border": "#1A1A1A",
+    "terminal.dropBackground": "#FFBF3B40",
+    "terminal.tab.activeBorder": "#FFBF3B",
+    "terminalCommandDecoration.defaultBackground": "#AFACA7",
+    "terminalCommandDecoration.successBackground": "#7CB342",
+    "terminalCommandDecoration.errorBackground": "#FF8080",
+    "terminal.findMatchBackground": "#FFBF3B40",
+    "terminal.findMatchBorder": "#FFBF3B",
+    "terminal.findMatchHighlightBackground": "#FFBF3B20"
   },
   "tokenColors": [
     {
@@ -559,7 +595,10 @@
     },
     {
       "name": "Markup - Quote",
-      "scope": ["markup.quote"]
+      "scope": ["markup.quote"],
+      "settings": {
+        "foreground": "#ffffff"
+      }
     },
     {
       "name": "Markdown - Link",
@@ -635,6 +674,28 @@
       "settings": {
         "foreground": "#ffffff"
       }
+    },
+    {
+      "name": "Comment",
+      "scope": ["comment", "punctuation.definition.comment"],
+      "settings": {
+        "foreground": "#555050",
+        "fontStyle": "italic"
+      }
     }
-  ]
+  ],
+  "semanticTokenColors": {
+    "property.readonly": "#F2E7DC",
+    "function.declaration": "#FFBF3B",
+    "variable.parameter": "#AFACA7",
+    "class": "#FFBF3B",
+    "interface": "#F2E7DC",
+    "type": "#AFACA7"
+  },
+  "editorBracketHighlight.foreground1": "#FFE580",
+  "editorBracketHighlight.foreground2": "#FAF6F1",
+  "editorBracketHighlight.foreground3": "#D6D3CD",
+  "editorBracketHighlight.foreground4": "#FFFBF6",
+  "editorBracketHighlight.foreground5": "#FFE8D3",
+  "editorBracketHighlight.foreground6": "#FFE3C4"
 }
